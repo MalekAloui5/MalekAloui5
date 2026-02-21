@@ -42,14 +42,6 @@ Petit projet utilisant Python pour l'initiation à l'IA.
 - Applications JavaScript
 - Portfolio personnel  
 
-## 📊 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalekAloui5&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalekAloui5&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 🎯 Objectifs 2026
 - Maîtriser JavaScript avancé  
 - Apprendre React et Node.js  
